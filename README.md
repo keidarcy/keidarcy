@@ -1,3 +1,3 @@
-Hi, there! 👋
+Hi, there 👋
 
-I won't sell you anything 😉.
+I won't sell you anything 😉
