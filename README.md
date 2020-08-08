@@ -1,3 +1,12 @@
 Hi, there 👋
 
-I won't sell you anything 😉
+Don'tworry, I won't sell you anything 😉
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=keidarcy&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keidarcy" />
+</a>
+
