@@ -14,9 +14,9 @@ Don't worry, I won't sell you anything 😉
 
 
 
-## 我想做的事情(虽然没人会看到，但公开有助于督促自己)
+## TODOLIST
 
- - 写自己的JSX解释器，或者找到好用的
- - 精进JS周边的技术
- - 年内发布至少两个shopify app
- - 持续更新Shopi notes
+ - better light solution from shopify app frontend
+ - publish two apps
+ - CI/CD solution from these
+ - JS/TS, webpack basic
