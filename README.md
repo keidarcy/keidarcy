@@ -1,6 +1,7 @@
 ## navi
 
  - [snippets](https://github.com/keidarcy/snippets)
+ - [demos](https://keidarcy.github.io/quick-demos/)
 
 
 
