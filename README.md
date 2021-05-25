@@ -1,6 +1,6 @@
 ## navi
 
- - [snippets](https://github.com/keidarcy/snippets)
+ - [snippets](https://keidarcy.github.io/snippets)
  - [js-theater](https://keidarcy.github.io/js-theater/)
 
 
