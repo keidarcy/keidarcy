@@ -17,4 +17,3 @@
 </div>
 
 - [snippets](https://keidarcy.github.io/snippets)
-- [js-theater](https://keidarcy.github.io/js-theater/)
