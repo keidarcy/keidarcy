@@ -14,7 +14,8 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/vim/vim.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/mongodb/mongodb.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/go/go.png"></code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/go/go.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/lua/lua.png"></code> 
 
 <div class="half">
   <a href="https://github.com/keidarcy"><img src="https://github-readme-stats.vercel.app/api?username=keidarcy&theme=gruvbox&count_private=true&show_icons=true"></img></a>
