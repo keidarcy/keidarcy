@@ -15,12 +15,12 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/vim/vim.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/mongodb/mongodb.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/go/go.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/lua/lua.png"></code> 
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/lua/lua.png"></code>
 
 <div class="half">
   <a href="https://github.com/keidarcy"><img src="https://github-readme-stats.vercel.app/api?username=keidarcy&theme=gruvbox&count_private=true&show_icons=true"></img></a>
   <a href="https://github.com/keidarcy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keidarcy&layout=compact&langs_count=10&hide=html,css&theme=gruvbox" height="195"></img></a>
-  <a href="https://github.com/keidarcy"><img src="https://i.giphy.com/media/oFI7FttD0iC8V2Iqmy/giphy.webp" height="195"></img></a> 
+  <a href="https://github.com/keidarcy"><img src="https://i.giphy.com/media/oFI7FttD0iC8V2Iqmy/giphy.webp" height="195"></img></a>
 </div>
 
-- [snippets](https://keidarcy.github.io/snippets)
+[My Awesome Stars](AWESOME-STARS.md)
