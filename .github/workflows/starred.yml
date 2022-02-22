@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: 0 7 *  * *
+    - cron: 0 7 * * *
   workflow_dispatch:
 
 jobs:
@@ -23,8 +23,8 @@ jobs:
         run: starred --username keidarcy --sort --token ${{ secrets.GITHUB_TOKEN }} > AWESOME-STARS.md
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add -A
           git diff-index --quiet HEAD || git commit -m "Update awesome stars"
       - name: Pull changes
