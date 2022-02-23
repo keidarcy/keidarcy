@@ -63,6 +63,7 @@
 
 ## JavaScript 
 
+- [follow-redirects/follow-redirects](https://github.com/follow-redirects/follow-redirects) - Node.js module that automatically follows HTTP(S) redirects
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
 - [kadikraman/AwesomeProjectExpo](https://github.com/kadikraman/AwesomeProjectExpo) - Expo solutions to my React Native course for Frontend Masters
 - [kadikraman/AwesomeProjectRN](https://github.com/kadikraman/AwesomeProjectRN) - React Native solutions to my React Native course for Frontend Masters
