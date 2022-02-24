@@ -54,6 +54,7 @@
 
 ## HTML 
 
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - centralized projects from the YouTube show GUI Challenges
@@ -63,6 +64,7 @@
 
 ## JavaScript 
 
+- [ronffy/axios-tutorial](https://github.com/ronffy/axios-tutorial) - axios实例应用及源码剖析 - xhr篇 （走心教程）
 - [follow-redirects/follow-redirects](https://github.com/follow-redirects/follow-redirects) - Node.js module that automatically follows HTTP(S) redirects
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
 - [kadikraman/AwesomeProjectExpo](https://github.com/kadikraman/AwesomeProjectExpo) - Expo solutions to my React Native course for Frontend Masters
@@ -140,7 +142,7 @@
 
 ## Python 
 
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 123 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 125 forks 🌟
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
