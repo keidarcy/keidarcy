@@ -27,7 +27,6 @@
 
 ## C 
 
-- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [Sorosliu1029/CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs) - :bomb: CS:APP3e labs
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
@@ -56,6 +55,7 @@
 ## HTML 
 
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+- [sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [tc39/ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - centralized projects from the YouTube show GUI Challenges
