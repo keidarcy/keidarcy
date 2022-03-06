@@ -173,6 +173,7 @@
 
 ## Shell 
 
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [Mach-OS/Machfiles](https://github.com/Mach-OS/Machfiles) - The dotfiles you see in all my videos
 
