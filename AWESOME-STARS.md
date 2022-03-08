@@ -149,6 +149,7 @@
 
 ## Python 
 
+- [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
 - [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 72 stars and 125 forks 🌟
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
@@ -169,6 +170,8 @@
 
 ## Rust 
 
+- [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [vinodotdev/node-to-rust](https://github.com/vinodotdev/node-to-rust) - 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
@@ -178,6 +181,7 @@
 
 ## Shell 
 
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [Mach-OS/Machfiles](https://github.com/Mach-OS/Machfiles) - The dotfiles you see in all my videos
