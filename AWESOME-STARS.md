@@ -78,6 +78,7 @@
 
 ## JavaScript 
 
+- [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
 - [tengbao/vanta](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website
 - [zgrossbart/jdd](https://github.com/zgrossbart/jdd) - A semantic JSON compare tool
 - [ronffy/axios-tutorial](https://github.com/ronffy/axios-tutorial) - axios实例应用及源码剖析 - xhr篇 （走心教程）
