@@ -123,6 +123,7 @@
 
 ## Lua 
 
+- [keidarcy/dotfiles](https://github.com/keidarcy/dotfiles) - Robust & colorful dot configuration and utilities files with CI check 🦄🦄.
 - [szymonkaliski/dotfiles](https://github.com/szymonkaliski/dotfiles) - scripts and dotfiles
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Neovim plugin that allows you to seamlessly manage LSP servers with :LspInstall. With full Windows support!
 - [jhkuperus/dotfiles](https://github.com/jhkuperus/dotfiles) - Personal dotfiles containing configuration of various tools
@@ -163,8 +164,9 @@
 
 ## Python 
 
+- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 73 stars and 129 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 73 stars and 130 forks 🌟
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
