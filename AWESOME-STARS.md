@@ -84,6 +84,8 @@
 
 ## JavaScript 
 
+- [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
+- [usmanyunusov/nano-staged](https://github.com/usmanyunusov/nano-staged) - Tiny tool to run commands for modified, staged, and committed git files.
 - [googlearchive/flipjs](https://github.com/googlearchive/flipjs) - A helper library for doing FLIP animations.
 - [mathiasbynens/punycode.js](https://github.com/mathiasbynens/punycode.js) - A robust Punycode converter that fully complies to RFC 3492 and RFC 5891.
 - [lukejacksonn/perflink](https://github.com/lukejacksonn/perflink) - Low friction JavaScript benchmarks that you can share via URL
@@ -179,7 +181,7 @@
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 74 stars and 131 forks 🌟
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 74 stars and 132 forks 🌟
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
@@ -225,6 +227,7 @@
 
 ## TypeScript 
 
+- [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - Happy DOM is a JavaScript implementation of a web browser without its graphical user interface. It includes many web standards from WHATWG DOM and HTML.
 - [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
