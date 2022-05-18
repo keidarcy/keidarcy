@@ -33,7 +33,7 @@
 ## C 
 
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
-- [Sorosliu1029/CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs) - :bomb: CS:APP3e labs
+- [Sorosliu1029/CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs) - 💣 CMU-15213 CS:APP3e labs
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 
