@@ -28,6 +28,7 @@
 - [TypeScript](#typescript)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [Zig](#zig)
 
 ## C 
 
@@ -298,6 +299,10 @@
 ## WebAssembly 
 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+
+## Zig 
+
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License
