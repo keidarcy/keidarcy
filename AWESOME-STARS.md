@@ -248,6 +248,7 @@
 
 ## TypeScript 
 
+- [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar
 - [nicoespeon/abracadabra](https://github.com/nicoespeon/abracadabra) - Automated refactorings for VS Code (JS & TS) ✨ It's magic ✨
 - [ssut/nestjs-sqs](https://github.com/ssut/nestjs-sqs) - A project to make SQS easier to use and control some required flows with NestJS.
 - [iamolegga/nestjs-pino](https://github.com/iamolegga/nestjs-pino) - Platform agnostic logger for NestJS based on Pino with REQUEST CONTEXT IN EVERY LOG
