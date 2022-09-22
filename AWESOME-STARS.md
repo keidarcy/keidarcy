@@ -91,6 +91,7 @@
 
 ## JavaScript 
 
+- [sudongyuer/learn-eslint](https://github.com/sudongyuer/learn-eslint) - 🦥 从0到1全面掌握ESLint
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
 - [webfansplz/article](https://github.com/webfansplz/article) - record and share
