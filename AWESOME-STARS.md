@@ -91,6 +91,7 @@
 
 ## JavaScript 
 
+- [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [sudongyuer/learn-eslint](https://github.com/sudongyuer/learn-eslint) - 🦥 从0到1全面掌握ESLint
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -238,7 +239,7 @@
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
-- [Mach-OS/Machfiles](https://github.com/Mach-OS/Machfiles) - The dotfiles you see in all my videos
+- [ChristianChiarulli/Machfiles](https://github.com/ChristianChiarulli/Machfiles) - The dotfiles you see in all my videos
 - [jhkuperus/dotfiles](https://github.com/jhkuperus/dotfiles) - Personal dotfiles containing configuration of various tools
 
 ## Swift 
