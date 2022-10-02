@@ -248,6 +248,7 @@
 
 ## TypeScript 
 
+- [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) - A collection of badass modules and utilities to help you level up your NestJS applications 🚀
 - [facebookincubator/memlab](https://github.com/facebookincubator/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Marvellous code walkthroughs
