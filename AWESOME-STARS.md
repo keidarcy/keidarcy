@@ -250,6 +250,7 @@
 
 ## TypeScript 
 
+- [google/webauthndemo](https://github.com/google/webauthndemo) - An example Node.js Relying Party implementation of the WebAuthn specification
 - [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest en
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - zero config bundler for ECMAScript libraries
 - [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
