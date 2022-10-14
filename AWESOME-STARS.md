@@ -235,6 +235,7 @@
 
 ## Shell 
 
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [keidarcy/gh-star](https://github.com/keidarcy/gh-star) - GitHub CLI extension to fuzzy search starred ✨ repo using fzf.
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -251,6 +252,8 @@
 
 ## TypeScript 
 
+- [nonara/ts-patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality
+- [madou/typescript-transformer-handbook](https://github.com/madou/typescript-transformer-handbook) - 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples
 - [google/webauthndemo](https://github.com/google/webauthndemo) - An example Node.js Relying Party implementation of the WebAuthn specification
 - [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest en
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - zero config bundler for ECMAScript libraries
