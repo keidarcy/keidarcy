@@ -235,6 +235,8 @@
 
 ## Shell 
 
+- [romkatv/zsh-prompt-benchmark](https://github.com/romkatv/zsh-prompt-benchmark) - Measure how long it takes for your zsh prompt to render
+- [zthxxx/jovial](https://github.com/zthxxx/jovial) - Jovial - A lovely zsh theme with responsive-design, it's pretty fast, keep simple but useful
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [keidarcy/gh-star](https://github.com/keidarcy/gh-star) - GitHub CLI extension to fuzzy search starred ✨ repo using fzf.
 - [zdharma-continuum/fast-syntax-highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting) - Feature-rich syntax highlighting for ZSH
@@ -252,6 +254,7 @@
 
 ## TypeScript 
 
+- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [nonara/ts-patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality
 - [madou/typescript-transformer-handbook](https://github.com/madou/typescript-transformer-handbook) - 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples
 - [google/webauthndemo](https://github.com/google/webauthndemo) - An example Node.js Relying Party implementation of the WebAuthn specification
