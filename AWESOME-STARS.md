@@ -186,6 +186,8 @@
 
 ## Others 
 
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
+- [golovers/effective-go](https://github.com/golovers/effective-go) - a list of effective go, best practices and go idiomatic
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a blazingly-fast modern Rust based GPU-accelerated terminal built to make you and your team more productive.
 - [wycats/javascript-decorators](https://github.com/wycats/javascript-decorators) - 
