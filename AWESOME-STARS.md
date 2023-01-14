@@ -79,7 +79,7 @@
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
 ## HTML 
 
@@ -102,6 +102,7 @@
 
 ## JavaScript 
 
+- [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [rse/stmux](https://github.com/rse/stmux) - Simple Terminal Multiplexer for Node.js Environments
 - [nodeshift/nodejs-reference-architecture](https://github.com/nodeshift/nodejs-reference-architecture) - The Red Hat and IBM Node.js Reference architecture.  The teams 'opinion' on what components our customers and internal teams should use when building Node.js applications and guidance for how to be su
