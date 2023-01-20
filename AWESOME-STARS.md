@@ -35,6 +35,7 @@
 
 ## C 
 
+- [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [Sorosliu1029/CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs) - 💣 CMU-15213 CS:APP3e labs
 - [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
@@ -58,6 +59,7 @@
 
 ## Go 
 
+- [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
