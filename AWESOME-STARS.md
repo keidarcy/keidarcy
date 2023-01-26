@@ -110,6 +110,7 @@
 
 ## JavaScript 
 
+- [kufii/vscode-sql-formatter](https://github.com/kufii/vscode-sql-formatter) - Format sql files using the sql-formatter npm package
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [rse/stmux](https://github.com/rse/stmux) - Simple Terminal Multiplexer for Node.js Environments
