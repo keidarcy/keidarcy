@@ -29,7 +29,6 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
-- [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [Zig](#zig)
 
@@ -372,10 +371,6 @@
 ## Vim Script 
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-
-## Vue 
-
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
 ## WebAssembly 
 
