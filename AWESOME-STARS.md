@@ -200,6 +200,7 @@
 
 ## Others 
 
+- [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [golovers/effective-go](https://github.com/golovers/effective-go) - a list of effective go, best practices and go idiomatic
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
