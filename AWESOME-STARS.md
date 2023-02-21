@@ -253,6 +253,7 @@
 
 ## Rust 
 
+- [smudge/nightlight](https://github.com/smudge/nightlight) - A CLI for configuring "Night Shift" on macOS 🌕🌖🌗🌘🌑
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
