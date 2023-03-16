@@ -15,6 +15,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Mako](#mako)
@@ -171,6 +172,10 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
+
+## Jupyter Notebook 
+
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Lua 
 
