@@ -116,6 +116,7 @@
 
 ## JavaScript 
 
+- [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [kufii/vscode-sql-formatter](https://github.com/kufii/vscode-sql-formatter) - Format sql files using the sql-formatter npm package
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
