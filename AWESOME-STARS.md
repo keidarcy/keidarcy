@@ -27,6 +27,7 @@
 - [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -288,6 +289,10 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+
+## Scala 
+
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 
 ## Shell 
 
