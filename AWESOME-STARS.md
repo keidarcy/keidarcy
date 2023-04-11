@@ -119,6 +119,7 @@
 
 ## JavaScript 
 
+- [danielabar/mongo-performance](https://github.com/danielabar/mongo-performance) - Learning MongoDB performance with MongoDB University, M201
 - [sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation) - System Information Library for Node.JS
 - [kufii/vscode-sql-formatter](https://github.com/kufii/vscode-sql-formatter) - Format sql files using the sql-formatter npm package
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
@@ -404,7 +405,7 @@
 
 ## Zig 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
 
 
 ## License
