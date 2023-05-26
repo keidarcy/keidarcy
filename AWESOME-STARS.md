@@ -67,6 +67,7 @@
 
 ## Go 
 
+- [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language
 - [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes
 - [swartzrock/ecsview](https://github.com/swartzrock/ecsview) - Browse your AWS ECS Clusters in the Terminal
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
