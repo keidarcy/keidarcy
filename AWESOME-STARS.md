@@ -40,7 +40,6 @@
 - [aamine/stdlinux2-source](https://github.com/aamine/stdlinux2-source) - ふつうのLinuxプログラミング第2版ソースコード
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
-- [Sorosliu1029/CSAPP-Labs](https://github.com/Sorosliu1029/CSAPP-Labs) - 💣 CMU-15213 CS:APP3e labs
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 
