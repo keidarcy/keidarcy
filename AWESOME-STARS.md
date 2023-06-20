@@ -66,6 +66,7 @@
 
 ## Go 
 
+- [keidarcy/e1s](https://github.com/keidarcy/e1s) - e1s is a terminal application to easily manage AWS ECS resources 🐱
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
