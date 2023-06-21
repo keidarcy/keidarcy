@@ -66,7 +66,7 @@
 
 ## Go 
 
-- [keidarcy/e1s](https://github.com/keidarcy/e1s) - e1s is a terminal application to easily manage AWS ECS resources 🐱
+- [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal 🐱✨
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [ktr0731/evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client
 - [x-motemen/gore](https://github.com/x-motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
@@ -142,6 +142,7 @@
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
 - [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (June 2023)
 - [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
@@ -339,7 +340,7 @@
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [nonara/ts-patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality
 - [itsdouges/typescript-transformer-handbook](https://github.com/itsdouges/typescript-transformer-handbook) - 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples
@@ -356,7 +357,6 @@
 - [iamolegga/nestjs-pino](https://github.com/iamolegga/nestjs-pino) - Platform agnostic logger for NestJS based on Pino with REQUEST CONTEXT IN EVERY LOG
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [dsherret/ts-morph](https://github.com/dsherret/ts-morph) - TypeScript Compiler API wrapper for static analysis and programmatic code changes.
