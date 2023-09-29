@@ -186,7 +186,7 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC.
 - [darcyclarke/darcy](https://github.com/darcyclarke/darcy) - 👤 all my info, centralized in one place
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 
 ## Jupyter Notebook 
