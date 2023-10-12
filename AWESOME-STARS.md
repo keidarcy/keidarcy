@@ -15,7 +15,6 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -190,10 +189,6 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 
-## Jupyter Notebook 
-
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-
 ## Lua 
 
 - [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.
@@ -230,6 +225,7 @@
 
 ## Others 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [golovers/effective-go](https://github.com/golovers/effective-go) - a list of effective go, best practices and go idiomatic
