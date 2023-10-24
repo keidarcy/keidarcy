@@ -340,6 +340,7 @@
 
 ## TypeScript 
 
+- [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [chengsokdara/use-whisper](https://github.com/chengsokdara/use-whisper) - React hook for OpenAI Whisper with speech recorder, real-time transcription, and silence removal built-in
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 - [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib) - OpenTelemetry instrumentation for JavaScript modules
