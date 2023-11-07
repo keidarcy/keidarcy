@@ -205,6 +205,7 @@
 
 ## MDX 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [sadanandpai/javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
 
 ## Makefile 
@@ -226,7 +227,6 @@
 
 ## Others 
 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [pthethanh/effective-go](https://github.com/pthethanh/effective-go) - a list of effective go, best practices and go idiomatic
