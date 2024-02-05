@@ -66,6 +66,7 @@
 
 ## Go 
 
+- [tedsmitt/ecsgo](https://github.com/tedsmitt/ecsgo) - Provides an interactive prompt to connect to ECS Containers using the ECS ExecuteCommand API.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) - k9s like CLI for AWS and GCP
 - [larrabee/s3sync](https://github.com/larrabee/s3sync) - Really fast sync tool for S3
