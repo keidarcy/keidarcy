@@ -66,6 +66,7 @@
 
 ## Go 
 
+- [cduggn/ccExplorer](https://github.com/cduggn/ccExplorer) - ccExplorer (Cloud cost explorer) is a simple command line tool to explore the cost of your cloud resources.
 - [tedsmitt/ecsgo](https://github.com/tedsmitt/ecsgo) - Provides an interactive prompt to connect to ECS Containers using the ECS ExecuteCommand API.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens) - k9s like CLI for AWS and GCP
@@ -205,7 +206,7 @@
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [keidarcy/dotfiles](https://github.com/keidarcy/dotfiles) - Robust & colorful dot configuration and utilities files with CI check 🦄🦄.
-- [szymonkaliski/dotfiles](https://github.com/szymonkaliski/dotfiles) - scripts and dotfiles
+- [szymonkaliski/dotfiles](https://github.com/szymonkaliski/dotfiles) - → https://github.com/szymonkaliski/home-configuration
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
 
 ## MDX 
