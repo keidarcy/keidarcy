@@ -72,6 +72,7 @@
 
 ## Go 
 
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [cresta/atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) - Detect terraform drift in atlantis
 - [cduggn/ccExplorer](https://github.com/cduggn/ccExplorer) - ccExplorer (Cloud cost explorer) is a simple command line tool to explore the cost of your cloud resources.
 - [tedsmitt/ecsgo](https://github.com/tedsmitt/ecsgo) - Provides an interactive prompt to connect to ECS Containers using the ECS ExecuteCommand API.
