@@ -303,6 +303,7 @@
 
 ## Rust 
 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [sunfishcode/c-ward](https://github.com/sunfishcode/c-ward) - An implementation of libc written in Rust
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
