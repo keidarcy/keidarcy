@@ -227,7 +227,7 @@
 
 ## Makefile 
 
-- [datasciencetoolbox/datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - Complete environments for busy polyglot data scientists
+- [datasciencetoolbox/datasciencetoolbox](https://github.com/datasciencetoolbox/datasciencetoolbox) - A complete environment for busy polyglot data scientists
 
 ## Mako 
 
