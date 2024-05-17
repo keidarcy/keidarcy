@@ -329,7 +329,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [jsoverson/node-to-rust](https://github.com/jsoverson/node-to-rust) - 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
@@ -378,7 +378,7 @@
 - [nonara/ts-patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality
 - [itsdouges/typescript-transformer-handbook](https://github.com/itsdouges/typescript-transformer-handbook) - 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples
 - [google/webauthndemo](https://github.com/google/webauthndemo) - An example Node.js Relying Party implementation of the WebAuthn specification
-- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for ECMAScript and TypeScript packages
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) - A collection of badass modules and utilities to help you level up your NestJS applications 🚀
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
