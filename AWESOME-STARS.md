@@ -148,6 +148,7 @@
 
 ## JavaScript 
 
+- [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
 - [aws/aws-cdk-rfcs](https://github.com/aws/aws-cdk-rfcs) - RFCs for the AWS CDK
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [danielabar/mongo-performance](https://github.com/danielabar/mongo-performance) - Learning MongoDB performance with MongoDB University, M201
