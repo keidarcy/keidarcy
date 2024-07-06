@@ -72,6 +72,7 @@
 
 ## Go 
 
+- [sanity-io/litter](https://github.com/sanity-io/litter) - Litter is a pretty printer library for Go data structures to aid in debugging and testing.
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
