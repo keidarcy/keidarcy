@@ -380,6 +380,7 @@
 
 ## TypeScript 
 
+- [grafana/athena-datasource](https://github.com/grafana/athena-datasource) - 
 - [hashicorp/cdktf-aws-cdk](https://github.com/hashicorp/cdktf-aws-cdk) - Use AWS CDK constructs in CDKTF projects
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
