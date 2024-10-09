@@ -380,6 +380,7 @@
 
 ## TypeScript 
 
+- [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [grafana/athena-datasource](https://github.com/grafana/athena-datasource) - 
 - [hashicorp/cdktf-aws-cdk](https://github.com/hashicorp/cdktf-aws-cdk) - Use AWS CDK constructs in CDKTF projects
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
