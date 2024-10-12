@@ -73,6 +73,7 @@
 
 ## Go 
 
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
@@ -354,6 +355,7 @@
 
 ## Shell 
 
+- [paololazzari/terraform-repl](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better REPL experience
 - [azu/ni.zsh](https://github.com/azu/ni.zsh) - Alternative `ni` written in zsh: npm/yarn/pnpm/bun with the same command
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [gennaro-tedesco/gh-f](https://github.com/gennaro-tedesco/gh-f) - 🔎 the ultimate compact fzf gh extension
