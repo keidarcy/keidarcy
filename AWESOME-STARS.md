@@ -158,6 +158,7 @@
 
 ## JavaScript 
 
+- [keidarcy/cdk-bun-init](https://github.com/keidarcy/cdk-bun-init) - CDK quick start. Powered by Bun and Biome 🌕
 - [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
 - [aws/aws-cdk-rfcs](https://github.com/aws/aws-cdk-rfcs) - RFCs for the AWS CDK
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
@@ -386,6 +387,7 @@
 
 ## TypeScript 
 
+- [keidarcy/cdktf-bun-init](https://github.com/keidarcy/cdktf-bun-init) - CDKTF quickstart with AWS example. Powered by Bun and Biome 🥮
 - [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [grafana/athena-datasource](https://github.com/grafana/athena-datasource) - 
 - [hashicorp/cdktf-aws-cdk](https://github.com/hashicorp/cdktf-aws-cdk) - Use AWS CDK constructs in CDKTF projects
