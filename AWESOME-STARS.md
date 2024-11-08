@@ -266,7 +266,6 @@
 - [aws-cloudformation/cloudformation-coverage-roadmap](https://github.com/aws-cloudformation/cloudformation-coverage-roadmap) - The AWS CloudFormation Public Coverage Roadmap
 - [cncf/trailmap](https://github.com/cncf/trailmap) - 🗺TrailMap files from the cncf/landscape repo
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
-- [awsdocs/amazon-eks-user-guide](https://github.com/awsdocs/amazon-eks-user-guide) - The open source version of the Amazon EKS user guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [pthethanh/effective-go](https://github.com/pthethanh/effective-go) - a list of effective go, best practices and go idiomatic
@@ -292,6 +291,7 @@
 
 ## Perl 
 
+- [awsdocs/amazon-eks-user-guide](https://github.com/awsdocs/amazon-eks-user-guide) - The open source version of the Amazon EKS user guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
 - [ThePrimeagen/.dotfiles](https://github.com/ThePrimeagen/.dotfiles) - 
 
 ## Python 
