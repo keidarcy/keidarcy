@@ -160,6 +160,7 @@
 
 ## JavaScript 
 
+- [jslaobi/jslaobi-leetcode-js](https://github.com/jslaobi/jslaobi-leetcode-js) - Javascript版leetcode题解
 - [keidarcy/cdk-bun-init](https://github.com/keidarcy/cdk-bun-init) - CDK quick start. Powered by Bun and Biome 🌕
 - [pistazie/cdk-dia](https://github.com/pistazie/cdk-dia) - Automated diagrams of CDK provisioned infrastructure
 - [aws/aws-cdk-rfcs](https://github.com/aws/aws-cdk-rfcs) - RFCs for the AWS CDK
