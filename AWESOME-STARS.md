@@ -73,6 +73,7 @@
 
 ## Go 
 
+- [chenjiandongx/kubectl-images](https://github.com/chenjiandongx/kubectl-images) - 🕸  Show container images used in the cluster.
 - [padok-team/burrito](https://github.com/padok-team/burrito) - 🌯 Burrito is a TACoS Kubernetes Operator - "ArgoCD for Terraform"
 - [piyushkumar96/data-structures-and-algorithm-golang](https://github.com/piyushkumar96/data-structures-and-algorithm-golang) - Data Structures and Algorithm in Golang
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
