@@ -375,6 +375,7 @@
 
 ## Shell 
 
+- [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 - [paololazzari/terraform-repl](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better REPL experience
 - [azu/ni.zsh](https://github.com/azu/ni.zsh) - Alternative `ni` written in zsh: npm/yarn/pnpm/bun with the same command
@@ -404,6 +405,7 @@
 
 ## TypeScript 
 
+- [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI.
 - [keidarcy/cdktf-bun-init](https://github.com/keidarcy/cdktf-bun-init) - CDKTF quickstart with AWS example. Powered by Bun and Biome 🥮
 - [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [grafana/athena-datasource](https://github.com/grafana/athena-datasource) - 
