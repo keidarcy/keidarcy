@@ -17,7 +17,6 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
-- [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -232,10 +231,6 @@
 - [darcyclarke/darcy](https://github.com/darcyclarke/darcy) - 👤 all my info, centralized in one place
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-
-## Jupyter Notebook 
-
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
 ## Lua 
 
