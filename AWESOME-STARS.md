@@ -231,7 +231,7 @@
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [darcyclarke/darcy](https://github.com/darcyclarke/darcy) - 👤 all my info, centralized in one place
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 ## Lua 
