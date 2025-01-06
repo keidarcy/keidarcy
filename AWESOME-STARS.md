@@ -73,6 +73,8 @@
 
 ## Go 
 
+- [DataDog/managed-kubernetes-auditing-toolkit](https://github.com/DataDog/managed-kubernetes-auditing-toolkit) - All-in-one auditing toolkit for identifying common security issues in managed Kubernetes environments. Currently supports Amazon EKS.
+- [aws/amazon-eks-pod-identity-webhook](https://github.com/aws/amazon-eks-pod-identity-webhook) - Amazon EKS Pod Identity Webhook
 - [awslabs/eks-node-viewer](https://github.com/awslabs/eks-node-viewer) - EKS Node Viewer
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [magodo/pipeform](https://github.com/magodo/pipeform) - Terraform runtime TUI 🫧
@@ -173,6 +175,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [DataDog/dd-trace-js](https://github.com/DataDog/dd-trace-js) - JavaScript APM Tracer
 - [jslaobi/jslaobi-leetcode-js](https://github.com/jslaobi/jslaobi-leetcode-js) - Javascript版leetcode题解
 - [keidarcy/cdk-bun-init](https://github.com/keidarcy/cdk-bun-init) - CDK quick start. Powered by Bun and Biome 🌕
