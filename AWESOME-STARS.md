@@ -54,7 +54,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [microsoft/pict](https://github.com/microsoft/pict) - Pairwise Independent Combinatorial Tool
 
 ## CSS 
@@ -245,7 +245,7 @@
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. Use https://sr.ht/~p00f/nvim-ts-rainbow instead
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [keidarcy/dotfiles](https://github.com/keidarcy/dotfiles) - Make everywhere feel like `$HOME` 🦄🦄
 - [szymonkaliski/dotfiles](https://github.com/szymonkaliski/dotfiles) - → https://github.com/szymonkaliski/home-configuration
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) - Further development has moved to https://github.com/williamboman/mason.nvim!
