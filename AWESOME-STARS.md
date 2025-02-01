@@ -14,6 +14,7 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -169,6 +170,10 @@
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+
+## Handlebars 
+
+- [CrunchyData/postgres-operator-examples](https://github.com/CrunchyData/postgres-operator-examples) - Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data
 
 ## Haskell 
 
