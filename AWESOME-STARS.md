@@ -74,6 +74,7 @@
 
 ## Go 
 
+- [namecheap/terraform-provider-namecheap](https://github.com/namecheap/terraform-provider-namecheap) - Terraform provider for Namecheap
 - [keidarcy/kubectl-eks-viewer](https://github.com/keidarcy/kubectl-eks-viewer) - A kubectl plugin that provides a convenient way to view AWS EKS cluster resources 🚀
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
 - [eksctl-io/eksctl](https://github.com/eksctl-io/eksctl) - The official CLI for Amazon EKS
