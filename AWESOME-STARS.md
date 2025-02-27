@@ -161,6 +161,7 @@
 
 ## HCL 
 
+- [keidarcy/terraform-aws-cost-anomaly-detection-alert](https://github.com/keidarcy/terraform-aws-cost-anomaly-detection-alert) - 💰 Terraform module for AWS Cost Anomaly Detection with optional Slack integration to monitor and alert on unexpected AWS cost increases 📊
 - [cloudposse/terraform-datadog-platform](https://github.com/cloudposse/terraform-datadog-platform) - Terraform module to configure and provision Datadog monitors, custom RBAC roles with permissions, Datadog synthetic tests, Datadog child organizations, and other Datadog resources from a YAML configur
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 
@@ -192,6 +193,7 @@
 
 ## JavaScript 
 
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [aws-samples/amazon-cloudfront-functions](https://github.com/aws-samples/amazon-cloudfront-functions) - 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [DataDog/dd-trace-js](https://github.com/DataDog/dd-trace-js) - Datadog APM client for Node.js
