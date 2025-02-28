@@ -69,11 +69,13 @@
 
 ## Dockerfile 
 
+- [Dobe-Solutions/sharp-heif-lambda-layer](https://github.com/Dobe-Solutions/sharp-heif-lambda-layer) - Lambda layer for Sharp with HEIF support
 - [ThePrimeagen/ansible](https://github.com/ThePrimeagen/ansible) - 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
 ## Go 
 
+- [envoyproxy/ratelimit](https://github.com/envoyproxy/ratelimit) - Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
@@ -430,6 +432,7 @@
 
 ## TypeScript 
 
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [aws-samples/image-optimization](https://github.com/aws-samples/image-optimization) - Simple, performant and cost efficient solution for optimizing images using Amazon CloudFront, Amazon S3 and AWS Lambda
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI.
 - [keidarcy/cdktf-bun-init](https://github.com/keidarcy/cdktf-bun-init) - CDKTF quickstart with AWS example. Powered by Bun and Biome 🥮
