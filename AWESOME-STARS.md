@@ -299,6 +299,7 @@
 
 ## Others 
 
+- [saifulapm/my-fonts](https://github.com/saifulapm/my-fonts) - My Coding Fonts
 - [aws-cloudformation/cloudformation-coverage-roadmap](https://github.com/aws-cloudformation/cloudformation-coverage-roadmap) - The AWS CloudFormation Public Coverage Roadmap
 - [cncf/trailmap](https://github.com/cncf/trailmap) - 🗺TrailMap files from the cncf/landscape repo
 - [cncf/landscape](https://github.com/cncf/landscape) - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
