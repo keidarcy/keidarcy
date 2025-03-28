@@ -165,6 +165,7 @@
 
 ## HCL 
 
+- [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 - [keidarcy/terraform-aws-cloudfront-s3-static-site](https://github.com/keidarcy/terraform-aws-cloudfront-s3-static-site) - 🌐 Terraform module for deploying secure static websites using AWS S3 and CloudFront with HTTPS support 🔐
 - [keidarcy/terraform-aws-cost-anomaly-detection-alert](https://github.com/keidarcy/terraform-aws-cost-anomaly-detection-alert) - 💰 Terraform module for AWS Cost Anomaly Detection with optional Slack integration to monitor and alert on unexpected AWS cost increases 📊
 - [cloudposse/terraform-datadog-platform](https://github.com/cloudposse/terraform-datadog-platform) - Terraform module to configure and provision Datadog monitors, custom RBAC roles with permissions, Datadog synthetic tests, Datadog child organizations, and other Datadog resources from a YAML configur
