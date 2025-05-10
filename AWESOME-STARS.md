@@ -442,6 +442,7 @@
 
 ## TypeScript 
 
+- [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [argoproj-labs/rollout-extension](https://github.com/argoproj-labs/rollout-extension) - Argo Rollout visualization in Argo CD Web UI
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [aws-samples/image-optimization](https://github.com/aws-samples/image-optimization) - Simple, performant and cost efficient solution for optimizing images using Amazon CloudFront, Amazon S3 and AWS Lambda
