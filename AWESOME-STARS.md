@@ -303,6 +303,7 @@
 
 ## Others 
 
+- [philippemerle/Awesome-Kubernetes-Architecture-Diagrams](https://github.com/philippemerle/Awesome-Kubernetes-Architecture-Diagrams) - Awesome Kubernetes Architecture Diagrams
 - [saifulapm/my-fonts](https://github.com/saifulapm/my-fonts) - My Coding Fonts
 - [aws-cloudformation/cloudformation-coverage-roadmap](https://github.com/aws-cloudformation/cloudformation-coverage-roadmap) - The AWS CloudFormation Public Coverage Roadmap
 - [cncf/trailmap](https://github.com/cncf/trailmap) - 🗺TrailMap files from the cncf/landscape repo
