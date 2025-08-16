@@ -18,6 +18,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -75,6 +76,15 @@
 
 ## Go 
 
+- [eldadru/ksniff](https://github.com/eldadru/ksniff) - Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark
+- [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec) - A kubectl plugin that wraps `kubectl exec` with session recording capabilities for audit and debugging 📝
+- [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+- [creack/pty](https://github.com/creack/pty) - PTY interface for Go
+- [robscott/kube-capacity](https://github.com/robscott/kube-capacity) - A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
+- [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop) - A top-like tool for your Kubernetes clusters
+- [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [kubecolor/kubecolor](https://github.com/kubecolor/kubecolor) - Colorize your kubectl output
 - [aws/aws-application-networking-k8s](https://github.com/aws/aws-application-networking-k8s) - A Kubernetes controller for Amazon VPC Lattice
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes
@@ -106,7 +116,7 @@
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
-- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - DevSecOps for Airgap & Limited-Connection Systems. https://zarf.dev/
+- [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Packager Manager for Kubernetes
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone
@@ -118,7 +128,6 @@
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [busser/tfautomv](https://github.com/busser/tfautomv) - Generate Terraform moved blocks automatically for painless refactoring
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [keidarcy/e1s](https://github.com/keidarcy/e1s) - E1S - Easily Manage AWS ECS Resources in Terminal(~k9s for ECS) 🐱
 - [stknohg/ec2rdp](https://github.com/stknohg/ec2rdp) - Remote Desktop Utility for Amazon EC2.
 - [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [cresta/atlantis-drift-detection](https://github.com/cresta/atlantis-drift-detection) - Detect terraform drift in atlantis
@@ -173,7 +182,6 @@
 - [keidarcy/terraform-aws-cloudfront-s3-static-site](https://github.com/keidarcy/terraform-aws-cloudfront-s3-static-site) - 🌐 Terraform module for deploying secure static websites using AWS S3 and CloudFront with HTTPS support 🔐
 - [keidarcy/terraform-aws-cost-anomaly-detection-alert](https://github.com/keidarcy/terraform-aws-cost-anomaly-detection-alert) - 💰 Terraform module for AWS Cost Anomaly Detection with optional Slack integration to monitor and alert on unexpected AWS cost increases 📊
 - [cloudposse/terraform-datadog-platform](https://github.com/cloudposse/terraform-datadog-platform) - Terraform module to configure and provision Datadog monitors, custom RBAC roles with permissions, Datadog synthetic tests, Datadog child organizations, and other Datadog resources from a YAML configur
-- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 
 ## HTML 
 
@@ -229,7 +237,7 @@
 - [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [livebud/bud](https://github.com/livebud/bud) - The Full-Stack Web Framework for Go
-- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
+- [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
 - [usmanyunusov/nano-staged](https://github.com/usmanyunusov/nano-staged) - Tiny tool to run commands for modified, staged, and committed files in a GIT repository.
 - [googlearchive/flipjs](https://github.com/googlearchive/flipjs) - A helper library for doing FLIP animations.
@@ -267,6 +275,10 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
+## Jupyter Notebook 
+
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+
 ## Lua 
 
 - [leandromoreira/cdn-up-and-running](https://github.com/leandromoreira/cdn-up-and-running) - CDN Up and Running - Building a CDN from Scratch to Learn about CDN, Nginx, Lua, Prometheus, Grafana, Load balancing, and Containers.
@@ -282,8 +294,8 @@
 
 ## MDX 
 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [sadanandpai/javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
 
 ## Makefile 
@@ -312,7 +324,7 @@
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [pthethanh/effective-go](https://github.com/pthethanh/effective-go) - a list of effective go, best practices and go idiomatic
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is the agentic development environment, built for coding with multiple AI agents.
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes) - Full reference of LinkedIn answers 2024 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test
 - [wycats/javascript-decorators](https://github.com/wycats/javascript-decorators) - 
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
@@ -335,6 +347,9 @@
 
 ## Python 
 
+- [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+- [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
+- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style!
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [patrickchugh/terravision](https://github.com/patrickchugh/terravision) - Terravision creates Professional Cloud Architecture Diagrams from your Terraform code automatically. Supports AWS, Google and Azure.
@@ -371,6 +386,7 @@
 
 ## Rust 
 
+- [elkowar/pipr](https://github.com/elkowar/pipr) - A tool to interactively write shell pipelines.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [bottlerocket-os/bottlerocket](https://github.com/bottlerocket-os/bottlerocket) - An operating system designed for hosting containers
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
@@ -408,6 +424,7 @@
 
 ## Shell 
 
+- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
@@ -434,7 +451,7 @@
 ## Swift 
 
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS.
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [ts1/BLEUnlock](https://github.com/ts1/BLEUnlock) - Lock/unlock your Mac with your iPhone, Apple Watch, or any other Bluetooth LE devices
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
@@ -442,6 +459,7 @@
 
 ## TypeScript 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser) - Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
 - [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server) - Self-hosted GitHub Actions cache server implementation. Compatible with official 'actions/cache' action
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -449,6 +467,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [aws-samples/image-optimization](https://github.com/aws-samples/image-optimization) - Simple, performant and cost efficient solution for optimizing images using Amazon CloudFront, Amazon S3 and AWS Lambda
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI.
+- [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [keidarcy/cdktf-bun-init](https://github.com/keidarcy/cdktf-bun-init) - CDKTF quickstart with AWS example. Powered by Bun and Biome 🥮
 - [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
 - [grafana/athena-datasource](https://github.com/grafana/athena-datasource) - 
@@ -465,7 +484,7 @@
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [nonara/ts-patch](https://github.com/nonara/ts-patch) - Augment the TypeScript compiler to support extended functionality
-- [itsdouges/typescript-transformer-handbook](https://github.com/itsdouges/typescript-transformer-handbook) - 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples
+- [itsdouges/typescript-transformer-handbook](https://github.com/itsdouges/typescript-transformer-handbook) - 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples.
 - [google/webauthndemo](https://github.com/google/webauthndemo) - An example Node.js Relying Party implementation of the WebAuthn specification
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for npm packages
@@ -473,7 +492,7 @@
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
-- [nicoespeon/abracadabra](https://github.com/nicoespeon/abracadabra) - Automated refactorings for VS Code (JS & TS) ✨ It's magic ✨
+- [nicoespeon/abracadabra](https://github.com/nicoespeon/abracadabra) - JS & TS automated refactorings for the VS Code editor ✨ It's magic ✨
 - [ssut/nestjs-sqs](https://github.com/ssut/nestjs-sqs) - A project to make SQS easier to use within NestJS, with decorator-based handling and seamless NestJS-way integration.
 - [iamolegga/nestjs-pino](https://github.com/iamolegga/nestjs-pino) - Platform agnostic logger for NestJS based on Pino with REQUEST CONTEXT IN EVERY LOG
 - [ranyitz/qnm](https://github.com/ranyitz/qnm) - :mag: cli utility for querying the node_modules directory
@@ -518,7 +537,6 @@
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API.
-- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website) - The Website and web infrastructure for learning TypeScript
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
