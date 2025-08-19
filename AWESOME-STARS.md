@@ -211,6 +211,7 @@
 
 ## JavaScript 
 
+- [ducbao414/win32.run](https://github.com/ducbao414/win32.run) - Windows XP in the browser, with a File System, programs, XP-style File Picker and Saver dialogs, 3rd-party program, etc.  🦄 🚀 💽
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
 - [aws-samples/amazon-cloudfront-functions](https://github.com/aws-samples/amazon-cloudfront-functions) - 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -424,6 +425,7 @@
 
 ## Shell 
 
+- [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [p8952/bocker](https://github.com/p8952/bocker) - Docker implemented in around 100 lines of bash
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
