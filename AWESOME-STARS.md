@@ -76,6 +76,7 @@
 
 ## Go 
 
+- [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [eldadru/ksniff](https://github.com/eldadru/ksniff) - Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark
 - [keidarcy/kubectl-execrec](https://github.com/keidarcy/kubectl-execrec) - A kubectl plugin that wraps `kubectl exec` with session recording capabilities for audit and debugging 📝
