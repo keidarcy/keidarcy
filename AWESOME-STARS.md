@@ -352,6 +352,7 @@
 
 ## Python 
 
+- [vertti/lazy-ecs](https://github.com/vertti/lazy-ecs) - A CLI tool for navigating AWS ECS clusters interactively.
 - [EzioBy/Ditto](https://github.com/EzioBy/Ditto) - [Preprint 2025] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
