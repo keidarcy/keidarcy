@@ -14,7 +14,6 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
-- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -32,6 +31,7 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
+- [Smarty](#smarty)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -199,10 +199,6 @@
 - [jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) - Data Science at the Command Line
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-
-## Handlebars 
-
-- [CrunchyData/postgres-operator-examples](https://github.com/CrunchyData/postgres-operator-examples) - Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data
 
 ## Haskell 
 
@@ -458,6 +454,10 @@
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
 - [jhkuperus/dotfiles](https://github.com/jhkuperus/dotfiles) - Personal dotfiles containing configuration of various tools
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
+
+## Smarty 
+
+- [CrunchyData/postgres-operator-examples](https://github.com/CrunchyData/postgres-operator-examples) - Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data
 
 ## Swift 
 
