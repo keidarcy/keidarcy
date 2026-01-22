@@ -12,6 +12,7 @@
 - [Clojure](#clojure)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -31,7 +32,6 @@
 - [Rust](#rust)
 - [Scala](#scala)
 - [Shell](#shell)
-- [Smarty](#smarty)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -177,6 +177,10 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+
+## Go Template 
+
+- [CrunchyData/postgres-operator-examples](https://github.com/CrunchyData/postgres-operator-examples) - Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data
 
 ## HCL 
 
@@ -456,10 +460,6 @@
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
 - [jhkuperus/dotfiles](https://github.com/jhkuperus/dotfiles) - Personal dotfiles containing configuration of various tools
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-
-## Smarty 
-
-- [CrunchyData/postgres-operator-examples](https://github.com/CrunchyData/postgres-operator-examples) - Examples for deploying applications with PGO, the Postgres Operator from Crunchy Data
 
 ## Swift 
 
