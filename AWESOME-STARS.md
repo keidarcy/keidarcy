@@ -355,7 +355,7 @@
 
 - [incidentfox/incidentfox](https://github.com/incidentfox/incidentfox) - AI-powered SRE platform for automated incident investigation
 - [vertti/lazy-ecs](https://github.com/vertti/lazy-ecs) - A CLI tool for navigating AWS ECS clusters interactively.
-- [EzioBy/Ditto](https://github.com/EzioBy/Ditto) - [CVPR 2026] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset
+- [EzioBy/Ditto](https://github.com/EzioBy/Ditto) - [CVPR'26 Highlight] Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [kainctl/isd](https://github.com/kainctl/isd) - isd (interactive systemd) – a better way to work with systemd units
 - [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style!
