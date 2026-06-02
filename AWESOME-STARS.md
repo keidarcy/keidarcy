@@ -120,7 +120,7 @@
 - [piyushkumar96/data-structures-and-algorithm-golang](https://github.com/piyushkumar96/data-structures-and-algorithm-golang) - Data Structures and Algorithm in Golang
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
+- [apache/devlake](https://github.com/apache/devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
 - [zarf-dev/zarf](https://github.com/zarf-dev/zarf) - The Airgap Native Package Manager for Kubernetes
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
@@ -242,7 +242,6 @@
 - [jamiebuilds/itsy-bitsy-data-structures](https://github.com/jamiebuilds/itsy-bitsy-data-structures) - :european_castle: All the things you didn't know you wanted to know about data structures
 - [sindresorhus/execa](https://github.com/sindresorhus/execa) - Process execution for humans
 - [sudongyuer/learn-eslint](https://github.com/sudongyuer/learn-eslint) - 🦥 从0到1全面掌握ESLint
-- [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
 - [gregberge/loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React ✂️✨
@@ -419,6 +418,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [jsoverson/node-to-rust](https://github.com/jsoverson/node-to-rust) - 
@@ -502,6 +502,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [huozhi/bunchee](https://github.com/huozhi/bunchee) - Zero config bundler for npm packages
 - [golevelup/nestjs](https://github.com/golevelup/nestjs) - A collection of badass modules and utilities to help you level up your NestJS applications 🚀
+- [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [code-hike/codehike](https://github.com/code-hike/codehike) - Build rich content websites with Markdown and React
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Package manager version manager for Node.js projects
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
@@ -528,7 +529,6 @@
 - [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 - [rt2zz/redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for React Native and Web apps
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [tinylibs/tinyspy](https://github.com/tinylibs/tinyspy) - 🕵🏻‍♂️ minimal fork of nanospy, with more features
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview) - React Native Cross-Platform WebView
