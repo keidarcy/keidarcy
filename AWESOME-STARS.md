@@ -71,7 +71,7 @@
 
 - [Dobe-Solutions/sharp-heif-lambda-layer](https://github.com/Dobe-Solutions/sharp-heif-lambda-layer) - Lambda layer for Sharp with HEIF support
 - [ThePrimeagen/ansible](https://github.com/ThePrimeagen/ansible) - 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 
 ## Go 
 
