@@ -483,7 +483,7 @@
 - [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS
 - [keidarcy/cdktf-bun-init](https://github.com/keidarcy/cdktf-bun-init) - CDKTF quickstart with AWS example. Powered by Bun and Biome 🥮
 - [hrishioa/lumentis](https://github.com/hrishioa/lumentis) - AI powered one-click comprehensive docs from transcripts and text.
-- [grafana/athena-datasource](https://github.com/grafana/athena-datasource) - 
+- [grafana/athena-datasource](https://github.com/grafana/athena-datasource) - Grafana data source plugin for querying AWS Athena
 - [hashicorp/cdktf-aws-cdk](https://github.com/hashicorp/cdktf-aws-cdk) - Use AWS CDK constructs in CDKTF projects
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
