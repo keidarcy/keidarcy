@@ -79,7 +79,7 @@
 
 ## Go 
 
-- [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX) - Autumn-27/ARTEX 持续维护开源版本 （Internationalized version）
+- [RuoJi6/ARTEX](https://github.com/RuoJi6/ARTEX) - Autumn-27/ARTEX 原始仓库开发者，现继续维护开源版本。Original repo developer of Autumn-27/ARTEX, now continuing the open-source version.
 - [stripe/stripe-cli](https://github.com/stripe/stripe-cli) - A command-line tool for Stripe
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) - Lookup resource attributes in tfstate.
